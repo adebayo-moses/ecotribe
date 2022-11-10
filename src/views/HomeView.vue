@@ -8,7 +8,7 @@
               <a href="#" title="" class="flex">
                 <img
                   class="w-auto h-8"
-                  src="../assets/ecotribe-logo-light.png"
+                  src="../assets/ecotribe-logo-color.png"
                   alt="The Eco Tribe Logo"
                 />
               </a>

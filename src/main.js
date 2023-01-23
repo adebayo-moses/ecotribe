@@ -1,18 +1,11 @@
-// import { Vue } from 'vue';
-import { createApp } from 'vue';
-import App from './App.vue';
-import router from './router';
+import { createApp } from 'vue'
+import App from './App.vue'
+import router from './router'
 
-import './assets/index.css';
+import './assets/main.css'
 
-const app = createApp(App);
+const app = createApp(App)
 
-app.use(router);
+app.use(router)
 
-app.mount('#app');
-
-// new Vue({
-//   el: '#app',
-//   render: (h) => h(App),
-//   router,
-// });
+app.mount('#app')

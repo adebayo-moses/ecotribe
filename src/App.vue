@@ -1,23 +1,7 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router';
-import HomeView from './views/HomeView.vue';
+import { RouterLink, RouterView } from "vue-router";
 </script>
 
-<template>
-  <HomeView></HomeView>
-</template>
+<template></template>
 
-<style scoped>
-nav a.router-link-exact-active {
-  --tw-text-opacity: 1;
-  color: rgb(74 222 128 / var(--tw-text-opacity));
-}
-
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  margin-right: 1em;
-}
-</style>
+<style scoped></style>
